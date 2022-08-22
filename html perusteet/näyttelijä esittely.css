@@ -1,0 +1,22 @@
+.oikea
+{
+   float: right;
+}
+img
+{
+float:left;
+  margin: 5px 60px 20px 10px;
+  height: 250px;
+}
+p
+{margin-top: 70px;
+font-style: normal;
+}
+.oikea
+{
+  float:right;
+}
+body
+{
+  background-color: gray;
+}
