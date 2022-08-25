@@ -27,6 +27,8 @@ section
 {
   background-color: #5D9292;
   width: 615px;
+  height: 400px
+
 }
 aside, section
 {
@@ -34,7 +36,7 @@ aside, section
 }
 aside
 {
-  height: 485px
+  height: auto
 }
 aside > p
 {
