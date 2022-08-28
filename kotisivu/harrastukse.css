@@ -25,8 +25,9 @@ aside
 }
 section
 {
-  background-color: #5D9292;
-  width: 615px;
+ background-color: #5D9292;
+  width: auto;
+  height: 337px;
 }
 aside, section
 {
@@ -34,7 +35,7 @@ aside, section
 }
 aside
 {
-  height: 485px
+  height: 690px
 }
 aside > p
 {
@@ -42,4 +43,9 @@ aside > p
 }
 ul{
   list-style-type: none;
+}
+img
+{
+  height: 170px;
+  width: auto;
 }
