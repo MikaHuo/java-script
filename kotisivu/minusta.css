@@ -5,7 +5,7 @@ body
 }
 header, footer
 {
- background-color: #677AA6; 
+  background-color: #677AA6;
   padding: 5px 0px 10px 10px;
 }
 header > h1
@@ -27,6 +27,8 @@ section
 {
   background-color: #5D9292;
   width: 615px;
+  height: 400px
+
 }
 aside, section
 {
@@ -34,7 +36,7 @@ aside, section
 }
 aside
 {
-  height: 485px
+  height: auto
 }
 aside > p
 {
@@ -42,4 +44,9 @@ aside > p
 }
 ul{
   list-style-type: none;
+}
+img
+{
+  width: 380px; height: auto;
+  box-shadow: 10px 10px
 }
