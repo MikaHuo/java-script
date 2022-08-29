@@ -34,7 +34,7 @@ aside, section
 }
 aside
 {
-  height: 491px
+  height: 429px
 }
 aside > p
 {
@@ -45,9 +45,9 @@ ul{
 }
 #häkä
 {
-  height: 150px; float: right;
+  height: 130px; float: right;
   }
 #laa
 {
- height: 100px; float: left; margin-right: 5px
+ height: 120px; float: left; margin-right: 5px
 }
