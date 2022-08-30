@@ -1,0 +1,34 @@
+table
+{
+  width: 480px;
+  border-collapse:collapse;
+}
+body tfoot, tbody, thead th, td
+{
+  border: 1px solid #6E6E6E;
+  text-align: right;
+}
+table tfoot, table thead
+{
+  background-color: #A4A4A4;
+  font-weight: bold;
+}
+table tbody tr:nth-child(even)
+{
+  background-color: ##FAFAFA
+}
+tbody tr:nth-child(odd)
+{
+  background-color: #E6E6E6
+}
+thead th:first-child
+{
+  text-align: left;
+  border-style: none;
+}
+tbody td:first-child
+{
+  text-align: left;
+  font-weight: bold;
+  border-style: none;
+}
