@@ -1,0 +1,32 @@
+body
+{
+  margin: 50px
+}
+h1
+{
+  color: green
+}
+h2
+{
+  font-family: 'Qwitcher Grypen', cursive;
+}
+#Lorem
+{
+  font-style: italic; font-weight: bolder
+}
+#cont
+{
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+}
+#standard
+{
+  font-family: 'Josefin Sans', sans-serif;
+}
+#it
+{
+font-family: 'Dancing Script', cursive;
+}
+#there
+{
+  font-family: "Brush Script MT",cursive;
+}
