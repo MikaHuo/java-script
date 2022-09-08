@@ -1,0 +1,33 @@
+
+main
+{
+      background-color: lightyellow;
+      margin: 50px;
+      padding-left: 60px;
+      width: 20%;
+      padding: 20px
+}
+label
+{
+  display: inline-block;
+  width: 100px;
+  margin-bottom: 5px;
+}
+#tyhja
+{
+  float: right;
+  margin-right: 50px;
+}
+h2
+{
+  text-align: center;
+}
+input
+{
+  border-radius: 20px;
+  background-color: lightgray;
+}
+textarea
+{
+  background-color: lightgray
+}
