@@ -1,0 +1,16 @@
+body
+{
+  margin: 50px
+}
+header
+{
+  width: 100%;
+}
+#pointit
+{
+  margin: left;
+}
+#logo
+{
+  border-bottom: 7px solid lightblue;
+}
