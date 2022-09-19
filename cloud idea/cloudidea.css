@@ -4,7 +4,6 @@ body
 }
 header
 {
-<<<<<<< HEAD
   width: 100%;
 }
 #pointit
@@ -14,7 +13,4 @@ header
 #logo
 {
   border-bottom: 7px solid lightblue;
-=======
-  width: 100%; position: fixed;
->>>>>>> 63e398ad12f64b5fa581e63ccd49a9011070b381
 }
