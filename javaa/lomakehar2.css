@@ -1,0 +1,12 @@
+body
+{
+  background-color: lightgray;
+  margin:50px;
+  padding-left:100px;
+}
+form
+{
+  display: inline-block;
+  width: 150px;
+  margin-bottom: 5px;
+}
