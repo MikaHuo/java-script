@@ -1,12 +1,19 @@
-body
+main
 {
   background-color: lightgray;
-  margin:50px;
-  padding-left:100px;
+  margin: 50px;
+  padding-left: 8px;
 }
-form
+body
 {
+
+  margin:150px;
+  padding-left:170px;
+}
+form, table, select
+{
+  border: solid 1px black;
   display: inline-block;
-  width: 150px;
+  width: 180px;
   margin-bottom: 5px;
 }
