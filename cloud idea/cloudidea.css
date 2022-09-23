@@ -4,5 +4,17 @@ body
 }
 header
 {
+<<<<<<< HEAD
   width: 100%; position: fixed;
+=======
+  width: 100%;
+}
+#pointit
+{
+  margin: left;
+}
+#logo
+{
+  border-bottom: 7px solid lightblue;
+>>>>>>> ff4ab26f9c773af4abb6fd93576b340fcf868849
 }
