@@ -1,0 +1,23 @@
+
+body
+{
+  margin:150px;
+  padding-left:170px;
+}
+form, table, select,
+{
+  border: solid 1px black;
+
+  width: 180px;
+  margin-bottom: 5px;
+}
+fieldset
+{
+  background-color: gray;
+  margin: 0 auto;
+  width: 300px;
+}
+label
+{
+  margin: 0 auto;
+}

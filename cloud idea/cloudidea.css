@@ -5,8 +5,11 @@ body
 header
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   width: 100%; position: fixed;
 =======
+=======
+>>>>>>> 3a8f961f7ba2ad838069d833e510e144902328e9
   width: 100%;
 }
 #pointit
@@ -16,5 +19,8 @@ header
 #logo
 {
   border-bottom: 7px solid lightblue;
+<<<<<<< HEAD
 >>>>>>> ff4ab26f9c773af4abb6fd93576b340fcf868849
+=======
+>>>>>>> 3a8f961f7ba2ad838069d833e510e144902328e9
 }
