@@ -1,0 +1,13 @@
+article
+{
+  margin: 30px;
+  padding: 50px;
+  background-color: #1be4fa;
+  width: 300px;
+}
+#par
+{
+  background-color: #6cebf8;
+  width: 116px;
+  text-shadow: 2px 1px 3px gray;
+}
