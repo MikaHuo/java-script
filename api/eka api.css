@@ -1,0 +1,18 @@
+article
+{
+  background-color: #E1DEDE;
+
+  width: 230px;
+  min-width: 230px;
+
+  height: 400px;
+}
+button
+{
+  float: right;
+}
+img
+{
+  min-width: 200px;
+  box-shadow: 5px 5px 7px gray;
+}
