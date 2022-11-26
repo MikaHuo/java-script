@@ -1,0 +1,38 @@
+nav
+{
+  margin: 0 auto;
+  padding-top: 2rem;
+
+}
+
+body
+{
+  padding-top: 1.5rem;
+  width: 50rem;
+  margin: 0 auto;
+  border: 2px solid navy;
+  background-image: url("luonto.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.sivu
+{
+  float: right;
+  box-shadow: 3px 3px 3px;
+  border-radius: 8px;
+}
+
+h1
+{
+  margin: 0 auto;
+}
+#alaosa
+{
+  background-color: white;
+  opacity: .9;
+}
+article
+{
+  background-color: white;
+
+}
