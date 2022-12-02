@@ -29,10 +29,18 @@ h1
 #alaosa
 {
   background-color: white;
-  opacity: .9;
+  /*opacity: .5;*/
 }
 article
 {
   background-color: white;
-
+/*  opacity: .5;*/
+}
+p
+{
+  opacity: 1;
+}
+.osoite
+{
+  opacity: 1;
 }
