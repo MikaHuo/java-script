@@ -1,25 +1,4 @@
-body
+table
 {
-margin: 50px
-}
-
-table, tr, td, th
-{
-border: 1px solid black ;border-collapse: collapse;
-}
-tr, td
-{
-text-align: left;
-}
-th
-{
-  background-color: #F00000;
-}
-tr:nth-child(odd)
-{
-  background-color: #FFF000;
-}
-tr:nth-child(even)
-{
-  background-color:Lightyellow
+  border: 1px solid black;
 }
