@@ -1,20 +1,152 @@
-body
-{
-  margin: 50px
+body{
+  margin: 50px;
+  width: 90%;
+  line-height: 1.5em;
 }
-header
-{
+h1{
+  font-size: 2.5em;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin: 15px 0 7px 0;
+  line-height: 1em;
+}
+h3 {
+  font-size: 1.7em;
+}
 
-  width: 100%; position: fixed;
-
+h4 {
+  font-size: 1.5em;
+}
+main{
+  display: table;
+  width: 75%;
+  margin: 12px auto;
+  overflow: auto;
+}
+header{
   width: 100%;
 }
 #pointit
 {
-  margin: left;
+  float: left;
 }
 #logo
 {
-  border-bottom: 7px solid lightblue;
+  display: block;
+  margin: auto;
+}
+#vali
+{
+  height: 2px;
+  background-color: lightblue;
+  border: none;
+}
+#alaotsikko{
+  text-align: center;
+}
+#alastuleva{
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
 
+#oikea
+{
+
+  float: right;
+  width: 50%;
+}
+#oikeaa
+{
+  border: 3px solid lightblue;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+  padding: 20px;
+}
+#vasen
+{
+  float: left;
+}
+.clearfix:before, .clearfix:after {
+  content: ' ';
+  display: table;
+}
+
+#oikeaa input[type='text'],
+#oikeaa input[type='email'] {
+  height: 25px;
+  width: 50%;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+}
+#oikeaa input[type='submit'] {
+  display: block;
+  float: right;
+  padding: 12px 17px 10px 13px;
+  background: #FA6E3E;
+  color: #FFF;
+  border: 0;
+  border-radius: 5px;
+}
+@media (max-width:1023px) {
+  #container {
+    width: 80%;
+  }
+
+  h1 {
+    font-size: 2.2em;
+  }
+#pilvi
+{
+  text-align: center;
+}
+  #vasen, #oikea {
+    width: 100%;
+    clear: both;
+    float: left;
+  }
+
+  #vasen .points li{
+    width: 80%;
+    margin: 0 auto 30px;
+    padding: 8px;
+    background: #EEE;
+    border-radius: 5px;
+  }
+
+  #vasen .points img {
+    margin-top: 10px;
+  }
+
+  #testimonials img {
+    display: block;
+    margin: 20px auto;
+    float: none;
+  }
+}
+/* Näytöt, joiden maksimileveys on 799px */
+@media (max-width: 799px) {
+  h3 {
+    font-size: 1.5em;
+  }
+  h4 {
+    font-size: 1.2em;
+  }
+  #vasen, #oikea {
+    width: 100%;
+    clear: both;
+    /*float: none;*/
+  }
+  #oikeaa {
+    clear: both;
+    padding: 20px 30px 30px 30px;
+  }
+}
+/* Näytöt, joiden maksimileveys on 479px */
+@media (min-width: 479px) {
+  h1 {
+    font-size: 1.6em;
+  }
+  h4 {
+    font-size: 1.2em;
+  }
 }
