@@ -43,6 +43,8 @@ header{
 }
 #alaotsikko{
   text-align: center;
+  position: relative;
+  bottom: 0px;
 }
 #alastuleva{
   margin-bottom: 20px;
@@ -59,6 +61,7 @@ header{
   border-radius: 10px;
   background-color: #F5F5F5;
   padding: 20px;
+
 }
 #vasen
 {
