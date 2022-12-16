@@ -16,3 +16,11 @@ img
   min-width: 200px;
   box-shadow: 5px 5px 7px gray;
 }
+.hauva
+{
+  float: right;
+}
+.tyyppi
+{
+  float: left;
+}

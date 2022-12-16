@@ -14,3 +14,16 @@ function lataa()
     document.getElementById('tietoa').src = data.results[0].picture.large
   })
 }
+
+/*function koira()
+{
+  fetch("https://dog.ceo/api/breeds/image/random")
+  .then(response => response.json())
+  .then(data => {
+    console.log(data.results[0]);
+    let koira = data.results[0].dog;
+    document.getElementById('koira').innerHTML = {
+
+    }
+  })
+}*/
